@@ -1,0 +1,20 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
+  "/api/nuggets/[id]": "pages/api/nuggets/[id].js",
+  "/api/nuggets": "pages/api/nuggets.js",
+  "/api/posts/[id]": "pages/api/posts/[id].js",
+  "/api/posts": "pages/api/posts.js",
+  "/api/sitemap": "pages/api/sitemap.js",
+  "/": "pages/index.html",
+  "/nuggets/[id]/[slug]": "pages/nuggets/[id]/[slug].js",
+  "/nuggets": "pages/nuggets.js",
+  "/nuggets/tag/[tag]": "pages/nuggets/tag/[tag].js",
+  "/posts/[id]/[slug]": "pages/posts/[id]/[slug].js",
+  "/posts": "pages/posts.js",
+  "/posts/tag/[tag]": "pages/posts/tag/[tag].js",
+  "/works": "pages/works.html",
+  "/_error": "pages/_error.js"
+}
