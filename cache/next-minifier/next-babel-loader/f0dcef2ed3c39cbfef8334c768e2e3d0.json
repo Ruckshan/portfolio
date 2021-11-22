@@ -1,0 +1,1 @@
+{"ast":null,"code":"import withPageTransition from '../../../components/hoc/with-page-transition';\nimport PostsPage from '../../../posts/posts-page/PostsPage.component';\nexport var __N_SSP = true;\nexport default withPageTransition(PostsPage);","map":null,"metadata":{},"sourceType":"module"}

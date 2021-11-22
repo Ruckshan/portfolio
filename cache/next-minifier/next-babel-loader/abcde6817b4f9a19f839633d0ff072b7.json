@@ -1,0 +1,1 @@
+{"ast":null,"code":"import withPageTransition from '../../components/hoc/with-page-transition';\nimport NuggetsPage from '../../nuggets/nuggets-page/NuggetsPage.component';\nexport var __N_SSG = true;\nexport default withPageTransition(NuggetsPage);","map":null,"metadata":{},"sourceType":"module"}

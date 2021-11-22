@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\r\n * List of URL's for NextJS api endpoints.\r\n */\nexport var API_URLS = {\n  POSTS: '/api/posts',\n  NUGGETS: '/api/nuggets'\n};","map":null,"metadata":{},"sourceType":"module"}
